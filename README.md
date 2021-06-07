@@ -6,7 +6,7 @@ In this homework we are tasked to scrape data from websites, store it into `Mong
 ## Webscraping, Database Storage and Website Presentation
 To do this homework we are using the following tools:
 - Web scraping
-    -`python` (libraries: `flask`, `splinter`, `webdriver-manager`, `pandas`)
+    - `python` (libraries: `flask`, `splinter`, `webdriver-manager`, `pandas`)
     - `jupyter notebook`
 - Web development
     - `HTML`
